@@ -2,3 +2,38 @@
     padding:5rem 2rem;
     background: rgb(251, 252, 255);
 }
+h3{
+    color: #1064ff;
+}
+.card{
+    background: #fff;
+    padding:1.5rem;
+    box-shadow: 0 0 15px #eef7ff;
+    margin: 15px;
+}
+.col-lg-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+@media (max-width:576px){
+    .col-lg-4{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+.col-lg-3 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
