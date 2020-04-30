@@ -7,4 +7,34 @@ p {
     padding: .8rem 1.8rem;
     cursor: pointer;
     border-radius:5px;
+    float: right;
+    margin-top:15px;
+    transition: .5s;
+}
+.button:hover{
+    background: #e3ebff;
+    color: #0749ff;
+    font-weight: 800;
+}
+.shop-logo::first-letter{
+    color: black;
+}
+.shop-logo{
+    color: rgb(85, 85, 85);
+    margin-right:10px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+header{
+    margin: auto;
+    box-shadow: 0 0 20px #d2daf0;
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    background:#ffffff;
+    z-index:1000;
+    padding:0 2rem;
 }
