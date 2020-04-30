@@ -1,3 +1,10 @@
 p {
     font-family: Lato;
   }
+.button{
+    background: #0749ff;
+    color: #ffffff;
+    padding: .8rem 1.8rem;
+    cursor: pointer;
+    border-radius:5px;
+}
