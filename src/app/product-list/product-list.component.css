@@ -47,6 +47,7 @@ h3{
     margin-top:7px;
     transition: .5s;
     border: none;
+    display: inline-block;
 }
 .button:hover{
     background: #e3ebff;

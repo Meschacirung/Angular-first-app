@@ -4,18 +4,3 @@
 a{
   cursor: pointer;
 }
-.button{
-  background: #0749ff;
-  color: #ffffff;
-  padding: .8rem 1.8rem;
-  cursor: pointer;
-  border-radius:5px;
-  float: right;
-  margin-top:15px;
-  transition: .5s;
-}
-.button:hover{
-  background: #e3ebff;
-  color: #0749ff;
-  font-weight: 800;
-}
