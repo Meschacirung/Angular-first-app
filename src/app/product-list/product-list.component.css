@@ -52,5 +52,8 @@ h3{
 .button:hover{
     background: #e3ebff;
     color: #0749ff;
-    font-weight: 800;
+}
+
+button{
+    display: inline-block;
 }

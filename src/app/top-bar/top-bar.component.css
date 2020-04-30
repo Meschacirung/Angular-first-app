@@ -14,7 +14,6 @@ p {
 .button:hover{
     background: #e3ebff;
     color: #0749ff;
-    font-weight: 800;
 }
 .shop-logo::first-letter{
     color: black;

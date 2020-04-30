@@ -12,5 +12,12 @@
 .button:hover{
     background: #4907ff; 
     color: #efeaff;
-    font-weight: 800;
+}
+
+button{
+    margin-left:20px;
+}
+
+p{
+    display: inline-block;
 }
